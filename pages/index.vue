@@ -3,14 +3,14 @@
     <div>
       <Logo />
       <h1 class="title">
-        boostrap_ui
+        bootstrap -nuxt
       </h1>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
           target="_blank"
           rel="noopener noreferrer"
-          class="button--green"
+          class="btn btn-success"
         >
           Documentation
         </a>
@@ -18,7 +18,7 @@
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
           rel="noopener noreferrer"
-          class="button--grey"
+          class="btn btn-danger"
         >
           GitHub
         </a>
@@ -26,7 +26,7 @@
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
           rel="noopener noreferrer"
-          class="btn btn-primary"
+          class="btn btn-primary "
         >
           GitHub
         </a>
